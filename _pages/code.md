@@ -1,3 +1,13 @@
+---
+layout: archive
+permalink: /code/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 # Code
 
 ## icdGLM: EM by the Method of Weights for Incomplete Categorical Data in Generlized Linear Models
