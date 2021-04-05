@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Lorenz Brachtendorf"
   avatar           : "brachtendorf lorenz_08_H_web.jpg"
-  bio              : "Research Fellow at Max Planck Institute for Innovation and Competition"
+  bio              : "Junior Research Fellow and Doctoral Candidate at Max Planck Institute for Innovation and Competition"
   location         : "Munich, Germany"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "lorenz.brachtendorf@gmx.de"
-  researchgate     :  "https://www.researchgate.net/profile/Lorenz-Brachtendorf"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,6 +103,7 @@ author:
   lastfm           :
   linkedin         : "lorenz-brachtendorf-785493b3"
   orcid            : "https://orcid.org/0000-0001-7066-0838"
+  researchgate     :  "https://www.researchgate.net/profile/Lorenz-Brachtendorf"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

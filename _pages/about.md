@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Junior Research Fellow and PhD student at the Max Planck Institute for Innovation and Competition in Munich.
+I am currently a Junior Research Fellow and Doctoral Candidate at the Max Planck Institute for Innovation and Competition in Munich.
