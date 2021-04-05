@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +10,10 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Physics, Heidelberg University, 2013
-* M.Sc. in Economics, Heidelberg University, 2016
 * Dr. oec. publ., University of Munich, 2021 (expected)
+* MBR in Business Research, University of Munich, 2019
+* M.Sc. in Economics, Heidelberg University, 2016
+* B.Sc. in Physics, Heidelberg University, 2013
 
 Work experience
 ======
