@@ -19,7 +19,7 @@ Work experience
 ======
 * Since 2016: Research Fellow
   * Max Planck Institute for Innovation and Competition
-  * Supervisor: Professor Dietmar Harhoff, Ph.D.1
+  * Supervisor: Professor Dietmar Harhoff, Ph.D.
   
 Skills
 ======
