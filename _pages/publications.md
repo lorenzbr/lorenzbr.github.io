@@ -18,7 +18,7 @@ Abstract: Standard-essential patents (SEPs) have become a key element of technic
 [CEPR](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14726) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3603956)
 
 
-## Approximating the Standard-Essentiality of Patents - A Semantics-Based Analysis
+## Approximating the Standard-Essentiality of Patents – A Semantics-Based Analysis
 
 ### Report for the European Patent Office Academic Research Programme
 
