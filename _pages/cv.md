@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 * Dr. oec. publ., University of Munich, 2021 (expected)
-* MBR in Business Research, University of Munich, 2019
+* Master of Business Research (M.B.R.), University of Munich, 2019
 * M.Sc. in Economics, Heidelberg University, 2016
   * Study abroad: Chinese University of Hong Kong
   * Master thesis at Centre for European Economic Research
