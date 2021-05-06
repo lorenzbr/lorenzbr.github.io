@@ -22,15 +22,15 @@ redirect_from:
 
 ## Work experience
 
-* Since 10/2016: Junior Research Fellow and Doctoral Candidate
+* Since 2016: Junior Research Fellow and Doctoral Candidate
   * Max Planck Institute for Innovation and Competition
   * Supervisor: Professor Dietmar Harhoff, Ph.D.
 
-* 01/2016 - 06/2016: Research Assistant at Centre for European Economic Research
-* 08/2015 - 10/2015: Intern at BHF-BANK AG Asset Allocation Research
-* 10/2014 - 12/2014: Intern at Carl Zeiss AG Strategic Corporate Development
-* 03/2014 - 08/2014: Research Assistant at Centre for European Economic Research
-* 07/2012 - 01/2013: Working Student at SAP SE
+* 2016: Research Assistant at Centre for European Economic Research
+* 2015: Intern at BHF-BANK AG
+* 2014: Intern at Carl Zeiss AG
+* 2014: Research Assistant at Centre for European Economic Research
+* 2012 - 2013: Working Student at SAP SE
 
 
 ## Skills
@@ -39,5 +39,5 @@ Programming languages and software packages: R, SQL, Python, Stata, Latex
 
 Some frameworks I have worked with:
 
-R: dplyr, data.table, rvest, ranger, xgb, e1041, glm, fixest, Rkeras, topicmodels, tm, ggplot2, shiny
-Python: pandas, beautifulsoup, selenium, spacy, scikit-learn
+* R: dplyr, data.table, rvest, ranger, xgb, e1041, glm, fixest, Rkeras, topicmodels, tm, ggplot2, shiny
+* Python: pandas, beautifulsoup, selenium, spacy, scikit-learn
