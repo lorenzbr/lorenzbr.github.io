@@ -34,9 +34,10 @@ redirect_from:
 
 
 ## Skills
-Programming languages and software packages:
-R, SQL, Python, Stata, Latex
 
-## Some frameworks I have worked with
+Programming languages and software packages: R, SQL, Python, Stata, Latex
+
+Some frameworks I have worked with:
+
 R: dplyr, data.table, rvest, ranger, xgb, e1041, glm, fixest, Rkeras, topicmodels, tm, ggplot2, shiny
 Python: pandas, beautifulsoup, selenium, spacy, scikit-learn
