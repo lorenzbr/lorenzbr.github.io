@@ -18,3 +18,8 @@ See [here](https://rdocumentation.org/packages/icdGLM/versions/1.0.0) for furthe
 
 [PDF](https://cran.r-project.org/web/packages/icdGLM/icdGLM.pdf) [GitHub](https://github.com/lorenzbr/icdGLM)
 
+## cryptowatchR: An API wrapper for Cryptowatch
+
+This R package provides an API wrapper for the Cryptowatch API. You can get prices and other information for cryptocurrencies and crypto exchanges.
+
+[GitHub](https://github.com/lorenzbr/cryptowatchR)
