@@ -10,7 +10,7 @@ redirect_from:
 
 # Code
 
-## icdGLM: EM by the Method of Weights for Incomplete Categorical Data in Generlized Linear Models
+## icdGLM: EM by the Method of Weights for Incomplete Categorical Data in Generalized Linear Models
 
 CRAN R package that provides an estimator for generalized linear models with incomplete data for discrete covariates. The estimation is based on the EM algorithm by the method of weights by Ibrahim (1990). The package includes two example data sets which are provided in this paper. First, a data set from Stukel and Dain (1989) involves a study of 82 patients who experienced translaryngeal intubation (TLI) and were evaluated for laryngeal complications. A seoncd data set from Feigl and Zelen (1965) involves survival times of 33 leukemia patients which were classified according to the presence or absence of a morphologic characteristic of white cells.
 
