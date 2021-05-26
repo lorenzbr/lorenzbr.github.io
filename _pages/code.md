@@ -20,6 +20,9 @@ See [here](https://rdocumentation.org/packages/icdGLM/versions/1.0.0) for furthe
 
 ## cryptowatchR: An API wrapper for Cryptowatch
 
-This R package provides an API wrapper for the Cryptowatch API. You can get prices and other information for cryptocurrencies and crypto exchanges.
+This R package provides an API wrapper for the Cryptowatch API. You can get prices and other information about cryptocurrencies and crypto exchanges.
 
-[GitHub](https://github.com/lorenzbr/cryptowatchR)
+See [here](https://rdocumentation.org/packages/cryptowatchR/versions/0.1.0) for further information.
+
+
+[PDF](https://cran.r-project.org/web/packages/cryptowatchR/cryptowatchR.pdf) [GitHub](https://github.com/lorenzbr/cryptowatchR)
