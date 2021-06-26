@@ -11,7 +11,7 @@ redirect_from:
 
 Hello and welcome on my personal website!
 
-I am a Research Fellow at the Max Planck Institute for Innovation and Competition in Munich. My work at the MPI focuses on quantitative economic research in the field of telecommunication standards and standard-essential patents (SEPs). A major aspect of my research lies on the prediction of SEPs and on the large-scale matching of patent documents and documents of technical standards applying semantics-based techniques. Moreover, I use multivariate statistics and quasi-experiments to answer policy and industry-relevant research questions.
+I am a Research Fellow at the Max Planck Institute for Innovation and Competition in Munich. My work at the MPI focuses on quantitative economic research in the field of standard-setting and standard-essential patents (SEPs). A major aspect of my research lies on the prediction of SEPs and on the large-scale matching of patent documents and documents of technical standards applying semantics-based techniques. Moreover, I use multivariate statistics and quasi-experiments to answer policy and industry-relevant research questions.
 
 During my time at the Max Planck Institute and the University of Munich, I conducted a doctoral thesis and a Master of Business Research focusing on quantitative research methods, data mining and big data.
 I received a Master of Science in Economics and studied at universities in Heidelberg and Hong Kong. I conducted a master thesis in innovation research and worked as a research assistant at the Centre for European Economic Research in Mannheim where I implemented an estimator for generalized linear models using incomplete data.
