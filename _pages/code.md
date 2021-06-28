@@ -28,4 +28,4 @@ See [here](https://rdocumentation.org/packages/cryptowatchR) for further informa
 
 ## Misc
 
-In recent years, I have been working a lot with patent data and data on technical standards. A few other repositories hence deal with the acquisition (web crawlers) and transformation (parser) of such data. If you are interested, check it out on my [GitHub profile](https://github.com/lorenzbr).
+In recent years, I have been working a lot with patent data and data on technical standards. A few other repositories hence deal with the extraction (web crawlers) and transformation (parser) of such data. If you are interested, check them out on my [GitHub profile](https://github.com/lorenzbr).
