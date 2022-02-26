@@ -75,7 +75,7 @@ Frameworks:
   * data manipulation/handling: data.table, tidyverse/dyplr, lubridate, zoo, stringr, jsonlite, Hmisc, tesseract, xlsx, randomizr, foreign, haven, pdftools, readxl, geosphere
   * data visualization: ggplot2, echarts4r, coefplot, ggmap, igraph, graphlayouts, graph, tidygraph, maptools, maps, ggmap
   * (data) engineering: devtools, testthat, rvest, httr, DBI, RMySQL
-  * ML: xgboost, keras, ranger, e1071
+  * ML: caret, xgboost, keras, ranger, e1071
   * NLP: tm, topicmodels, stringdist
   * stats: glm, fixest, icdglm, stats
   * parallelization: doParallel, foreach
