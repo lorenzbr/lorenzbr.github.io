@@ -77,7 +77,7 @@ Frameworks:
   * (data) engineering: devtools, testthat, rvest, httr, DBI, RMySQL
   * ML: caret, xgboost, keras, ranger, e1071
   * NLP: tm, topicmodels, stringdist
-  * stats: glm, fixest, icdglm, stats
+  * statistics: stats, fixest, icdglm
   * parallelization: doParallel, foreach
   * other: xts, PerformanceAnalytics, quantmod, jrvFinance, ...
 
