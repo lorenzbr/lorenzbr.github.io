@@ -10,6 +10,12 @@ redirect_from:
 
 # Code
 
+## Portfolio Tracker
+
+The Portfolio Tracker is an application to automatically track the portfolio performance of your stock investments. It is developed using R Shiny. This project is work in progress. Some code is public (mainly the backend) and can be found on my [GitHub profile](https://github.com/lorenzbr). The current version is deployed on AWS. It is instable and, at this time, should not serve as a basis for real investment decisions. Temporary accounts are only available upon request.
+
+See [here](https://portfolio-tracker.net) for further information.
+
 ## icdGLM: EM by the Method of Weights for Incomplete Categorical Data in Generalized Linear Models
 
 An R package published on CRAN that provides an estimator for generalized linear models with incomplete data for discrete covariates. The estimation is based on the EM algorithm by the method of weights by Ibrahim (1990). The package includes two example data sets which are provided in this paper. First, a data set from Stukel and Dain (1989) involves a study of 82 patients who experienced translaryngeal intubation (TLI) and were evaluated for laryngeal complications. A seoncd data set from Feigl and Zelen (1965) involves survival times of 33 leukemia patients which were classified according to the presence or absence of a morphologic characteristic of white cells.
