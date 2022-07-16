@@ -18,4 +18,4 @@ documents, text, large data). Moreover, I enjoy using R Shiny and AWS for visual
 applications. I am always curious and open for new technologies in the fields of data engineering, machine
 learning and data visualization.
 
-Further information on current and previous projects are shown on my webpage. Currently, I am open to new opportunities. Looking forward to get in touch with you!
+Further information on current and previous projects are shown on my webpage. Looking forward to get in touch with you!
